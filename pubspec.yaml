@@ -36,6 +36,8 @@ flutter:
   # This is required for using `dart:ffi`.
   # All these are used by the tooling to maintain consistency when
   # adding or updating assets for this project.
+  generate: true
+
   plugin:
     platforms:
       android:

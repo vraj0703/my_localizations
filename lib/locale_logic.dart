@@ -1,5 +1,6 @@
+import 'dart:ui';
 import 'package:flutter/foundation.dart';
-import 'package:flutter_base/common_libs.dart';
+import 'l10n/app_localizations.dart';
 
 class LocaleLogic {
   final Locale _defaultLocal = Locale('en');
