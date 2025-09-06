@@ -119,6 +119,12 @@ abstract class AppLocalizations {
   /// **'{percentage}% discovered'**
   String collectionLabelDiscovered(Object percentage);
 
+  /// No description provided for @fullscreenImageViewerSemanticFull.
+  ///
+  /// In en, this message translates to:
+  /// **'full screen image, no description available'**
+  String get fullscreenImageViewerSemanticFull;
+
   /// No description provided for @collectionLabelCount.
   ///
   /// In en, this message translates to:

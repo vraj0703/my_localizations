@@ -25,6 +25,9 @@ class AppLocalizationsZh extends AppLocalizations {
   }
 
   @override
+  String get fullscreenImageViewerSemanticFull => 'full screen image, no description available';
+
+  @override
   String collectionLabelCount(Object count, Object total) {
     return '$count of $total';
   }

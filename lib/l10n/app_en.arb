@@ -4,6 +4,7 @@
 	"animatedArrowSemanticSwipe": "Explore details about {title}.",
 	"@animatedArrowSemanticSwipe": {"placeholders": {"title": {}}},
 	"collectionLabelDiscovered": "{percentage}% discovered",
+	"fullscreenImageViewerSemanticFull": "full screen image, no description available",
 	"@collectionLabelDiscovered": {"placeholders": {"percentage": {}}},
 	"collectionLabelCount": "{count} of {total}",
 	"@newlyDiscoveredSemanticNew": {"placeholders": {"count": {}, "suffix": {}}},

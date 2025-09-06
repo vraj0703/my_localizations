@@ -1,7 +1,7 @@
 name: my_localizations
 description: "A new Flutter project."
 version: 0.0.1
-homepage:
+
 
 environment:
   sdk: ^3.9.0
