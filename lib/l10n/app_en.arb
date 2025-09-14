@@ -31,5 +31,7 @@
 	"privacyStatement": "As explained in our {privacyUrl} we do not collect any personal information.",
 	"@privacyStatement": {"placeholders": {"privacyUrl": {}}},
 	"pageNotFoundMessage": "The page you are looking for does not exist.",
-	"pageNotFound": "Page not found."
+	"pageNotFound": "Page not found.",
+	"today": "Today",
+	"yesterday" : "Yesterday"
 }
