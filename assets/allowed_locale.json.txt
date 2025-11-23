@@ -1,0 +1,17 @@
+The app supports all the the locales defined by the arb files in the l10n folder.
+The allowed locale flagged the one that can be used in the app.
+To generate the json file, get the list of language needs to be allowed in the app.
+Generate a allowed_locale.json file in the project with the list of allowed locales.
+The locale will be in the form of "language_country" : "display_name".
+
+The example json file is as follows:
+
+--------- JSON START ---------
+
+{
+  "en_US" : "English",
+  "hi_IN": "हिन्दी",
+  "zh_CN": "简体中文"
+}
+
+--------- JSON END ---------
