@@ -13,7 +13,7 @@ class LocaleLogic {
 
   bool get isEnglish => strings.localeName == 'en';
 
-  Future<void> load() async {
+  Future<void> load(Function(Locale locale) saveLocale) async {
     Locale locale = _defaultLocal;
     //locale = Locale(localeCode.split('_')[0]);
     if (kDebugMode) {
@@ -24,6 +24,7 @@ class LocaleLogic {
     }
 
     _strings = await AppLocalizations.delegate.load(locale);
+    saveLocale(locale);
   }
 
   Future<void> loadIfChanged(Locale locale) async {
