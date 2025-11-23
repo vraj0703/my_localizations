@@ -12,9 +12,6 @@ class AppLocalizationsEn extends AppLocalizations {
   String get appName => 'My Localizations';
 
   @override
-  String get localeSwapButton => '简体中文';
-
-  @override
   String animatedArrowSemanticSwipe(Object title) {
     return 'Explore details about $title.';
   }
@@ -25,7 +22,8 @@ class AppLocalizationsEn extends AppLocalizations {
   }
 
   @override
-  String get fullscreenImageViewerSemanticFull => 'full screen image, no description available';
+  String get fullscreenImageViewerSemanticFull =>
+      'full screen image, no description available';
 
   @override
   String collectionLabelCount(Object count, Object total) {
@@ -92,7 +90,8 @@ class AppLocalizationsEn extends AppLocalizations {
   }
 
   @override
-  String get pageNotFoundMessage => 'The page you are looking for does not exist.';
+  String get pageNotFoundMessage =>
+      'The page you are looking for does not exist.';
 
   @override
   String get pageNotFound => 'Page not found.';
