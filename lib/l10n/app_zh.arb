@@ -28,5 +28,6 @@
   "voicePermissionTitle": "请提供麦克风权限",
   "cameraPermissionDescription": "请提供相机权限",
   "voicePermissionDescription": "请提供麦克风权限",
-  "testKey": "你好世界"
+  "testKey": "你好世界",
+  "startOver": "重新开始"
 }

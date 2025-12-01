@@ -9,111 +9,115 @@ class AppLocalizationsHi extends AppLocalizations {
   AppLocalizationsHi([String locale = 'hi']) : super(locale);
 
   @override
-  String get appName => 'My Localizations';
+  String get appName => 'मेरे स्थानीयकरण';
 
   @override
   String animatedArrowSemanticSwipe(Object title) {
-    return 'Explore details about $title.';
+    return '$title के बारे में विवरण देखें।';
   }
 
   @override
   String collectionLabelDiscovered(Object percentage) {
-    return '$percentage% discovered';
+    return '$percentage% खोजा गया';
   }
 
   @override
   String get fullscreenImageViewerSemanticFull =>
-      'full screen image, no description available';
+      'पूर्ण स्क्रीन छवि, कोई विवरण उपलब्ध नहीं है';
 
   @override
   String collectionLabelCount(Object count, Object total) {
-    return '$count of $total';
+    return '$count का $total';
   }
 
   @override
   String newlyDiscoveredLabelNew(Object count, Object suffix) {
-    return '$count new item$suffix to explore';
+    return 'तलाशने के लिए $count नया आइटम$suffix';
   }
 
   @override
   String timelineSemanticDate(Object fromDate, Object endDate) {
-    return '$fromDate to $endDate';
+    return '$fromDate से $endDate';
   }
 
   @override
   String titleLabelDate(Object fromDate, Object endDate) {
-    return '$fromDate to $endDate';
+    return '$fromDate से $endDate';
   }
 
   @override
-  String get ok => 'Ok';
+  String get ok => 'ठीक है';
 
   @override
-  String get cancel => 'Cancel';
+  String get cancel => 'रद्द करना';
 
   @override
-  String get page => 'page';
+  String get page => 'पेज';
 
   @override
   String appPageSemanticSwipe(Object pageTitle, Object current, Object total) {
-    return '$pageTitle $current of $total.';
+    return '$pageTitle $current का $total।';
   }
 
   @override
   String semanticsPrevious(Object title) {
-    return 'Previous $title';
+    return 'पिछला $title';
   }
 
   @override
   String semanticsNext(Object title) {
-    return 'Next $title';
+    return 'अगला $title';
   }
 
   @override
-  String get date => 'Date';
+  String get date => 'तारीख';
 
   @override
-  String get searchTerms => 'search terms';
+  String get searchTerms => 'खोज शब्द';
 
   @override
-  String get close => 'close';
+  String get close => 'बंद करना';
 
   @override
-  String get back => 'back';
+  String get back => 'पीछे';
 
   @override
-  String get privacyPolicy => 'Privacy Policy';
+  String get privacyPolicy => 'गोपनीयता नीति';
 
   @override
   String privacyStatement(Object privacyUrl) {
-    return 'As explained in our $privacyUrl we do not collect any personal information.';
+    return 'जैसा कि हमारे $privacyUrl में बताया गया है, हम कोई भी व्यक्तिगत जानकारी एकत्र नहीं करते हैं।';
   }
 
   @override
   String get pageNotFoundMessage =>
-      'The page you are looking for does not exist.';
+      'आप जिस पृष्ठ की तलाश कर रहे हैं वह मौजूद नहीं है।';
 
   @override
-  String get pageNotFound => 'Page not found.';
+  String get pageNotFound => 'पृष्ठ नहीं मिला।';
 
   @override
-  String get today => 'Today';
+  String get today => 'आज';
 
   @override
-  String get yesterday => 'Yesterday';
+  String get yesterday => 'कल';
 
   @override
-  String get cameraPermissionTitle => 'Kindly provide the camera permission';
+  String get cameraPermissionTitle => 'कृपया कैमरे की अनुमति प्रदान करें';
 
   @override
-  String get voicePermissionTitle => 'Yesterday';
+  String get voicePermissionTitle => 'कृपया माइक्रोफोन की अनुमति प्रदान करें';
 
   @override
-  String get cameraPermissionDescription => 'Yesterday';
+  String get cameraPermissionDescription => 'कृपया कैमरे की अनुमति प्रदान करें';
 
   @override
-  String get voicePermissionDescription => 'Yesterday';
+  String get voicePermissionDescription =>
+      'कृपया माइक्रोफोन की अनुमति प्रदान करें';
 
   @override
   String get testKey => 'हैलो वर्ल्ड';
+
+  @override
+  String get startOver => 'प्रारंभ करें';
 }

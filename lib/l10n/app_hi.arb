@@ -28,5 +28,6 @@
   "voicePermissionTitle": "कृपया माइक्रोफोन की अनुमति प्रदान करें",
   "cameraPermissionDescription": "कृपया कैमरे की अनुमति प्रदान करें",
   "voicePermissionDescription": "कृपया माइक्रोफोन की अनुमति प्रदान करें",
-  "testKey": "हैलो वर्ल्ड"
+  "testKey": "हैलो वर्ल्ड",
+  "startOver": "प्रारंभ करें"
 }

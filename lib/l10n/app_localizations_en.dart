@@ -106,14 +106,19 @@ class AppLocalizationsEn extends AppLocalizations {
   String get cameraPermissionTitle => 'Kindly provide the camera permission';
 
   @override
-  String get voicePermissionTitle => 'Yesterday';
+  String get voicePermissionTitle => 'Kindly provide the microphone permission';
 
   @override
-  String get cameraPermissionDescription => 'Yesterday';
+  String get cameraPermissionDescription =>
+      'Kindly provide the camera permission';
 
   @override
-  String get voicePermissionDescription => 'Yesterday';
+  String get voicePermissionDescription =>
+      'Kindly provide the microphone permission';
 
   @override
   String get testKey => 'Hello World';
+
+  @override
+  String get startOver => 'Start over';
 }

@@ -86,5 +86,6 @@
   "testKey": "Hello World",
   "@testKey": {
     "description": "A test key"
-  }
+  },
+  "startOver": "Start over"
 }

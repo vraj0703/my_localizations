@@ -7,6 +7,7 @@ import 'package:intl/intl.dart' as intl;
 
 import 'app_localizations_en.dart';
 import 'app_localizations_hi.dart';
+import 'app_localizations_ta.dart';
 import 'app_localizations_zh.dart';
 
 // ignore_for_file: type=lint
@@ -97,6 +98,7 @@ abstract class AppLocalizations {
   static const List<Locale> supportedLocales = <Locale>[
     Locale('en'),
     Locale('hi'),
+    Locale('ta'),
     Locale('zh'),
   ];
 
@@ -253,19 +255,19 @@ abstract class AppLocalizations {
   /// No description provided for @voicePermissionTitle.
   ///
   /// In en, this message translates to:
-  /// **'Yesterday'**
+  /// **'Kindly provide the microphone permission'**
   String get voicePermissionTitle;
 
   /// No description provided for @cameraPermissionDescription.
   ///
   /// In en, this message translates to:
-  /// **'Yesterday'**
+  /// **'Kindly provide the camera permission'**
   String get cameraPermissionDescription;
 
   /// No description provided for @voicePermissionDescription.
   ///
   /// In en, this message translates to:
-  /// **'Yesterday'**
+  /// **'Kindly provide the microphone permission'**
   String get voicePermissionDescription;
 
   /// A test key
@@ -273,6 +275,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Hello World'**
   String get testKey;
+
+  /// No description provided for @startOver.
+  ///
+  /// In en, this message translates to:
+  /// **'Start over'**
+  String get startOver;
 }
 
 class _AppLocalizationsDelegate
@@ -286,7 +294,7 @@ class _AppLocalizationsDelegate
 
   @override
   bool isSupported(Locale locale) =>
-      <String>['en', 'hi', 'zh'].contains(locale.languageCode);
+      <String>['en', 'hi', 'ta', 'zh'].contains(locale.languageCode);
 
   @override
   bool shouldReload(_AppLocalizationsDelegate old) => false;
@@ -299,6 +307,8 @@ AppLocalizations lookupAppLocalizations(Locale locale) {
       return AppLocalizationsEn();
     case 'hi':
       return AppLocalizationsHi();
+    case 'ta':
+      return AppLocalizationsTa();
     case 'zh':
       return AppLocalizationsZh();
   }
