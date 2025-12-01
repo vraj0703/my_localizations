@@ -1,36 +1,83 @@
 {
-    "appName": "My Localizations",
-	"animatedArrowSemanticSwipe": "Explore details about {title}.",
-	"@animatedArrowSemanticSwipe": {"placeholders": {"title": {}}},
-	"collectionLabelDiscovered": "{percentage}% discovered",
-	"fullscreenImageViewerSemanticFull": "full screen image, no description available",
-	"@collectionLabelDiscovered": {"placeholders": {"percentage": {}}},
-	"collectionLabelCount": "{count} of {total}",
-	"@newlyDiscoveredSemanticNew": {"placeholders": {"count": {}, "suffix": {}}},
-	"newlyDiscoveredLabelNew": "{count} new item{suffix} to explore",
-	"@newlyDiscoveredLabelNew": {"placeholders": {"count": {}, "suffix": {}}},
-    "timelineSemanticDate": "{fromDate} to {endDate}",
-	"@timelineSemanticDate": {"placeholders": {"fromDate": {}, "endDate": {}}},
-	"titleLabelDate": "{fromDate} to {endDate}",
-	"@titleLabelDate": {"placeholders": {"fromDate": {}, "endDate": {}}},
-	"ok": "Ok",
-	"cancel": "Cancel",
-	"page": "page",
-	"appPageSemanticSwipe": "{pageTitle} {current} of {total}.",
-	"@appPageSemanticSwipe": {"placeholders": {"pageTitle": {}, "current": {}, "total": {}}},
-	"semanticsPrevious": "Previous {title}",
-	"@semanticsPrevious": {"placeholders": {"title": {}}},
-	"semanticsNext": "Next {title}",
-	"@semanticsNext": {"placeholders": {"title": {}}},
-	"date": "Date",
-	"searchTerms": "search terms",
-	"close": "close",
-	"back": "back",
-	"privacyPolicy": "Privacy Policy",
-	"privacyStatement": "As explained in our {privacyUrl} we do not collect any personal information.",
-	"@privacyStatement": {"placeholders": {"privacyUrl": {}}},
-	"pageNotFoundMessage": "The page you are looking for does not exist.",
-	"pageNotFound": "Page not found.",
-	"today": "Today",
-	"yesterday" : "Yesterday"
+  "appName": "My Localizations",
+  "animatedArrowSemanticSwipe": "Explore details about {title}.",
+  "@animatedArrowSemanticSwipe": {
+    "placeholders": {
+      "title": {}
+    }
+  },
+  "collectionLabelDiscovered": "{percentage}% discovered",
+  "fullscreenImageViewerSemanticFull": "full screen image, no description available",
+  "@collectionLabelDiscovered": {
+    "placeholders": {
+      "percentage": {}
+    }
+  },
+  "collectionLabelCount": "{count} of {total}",
+  "@newlyDiscoveredSemanticNew": {
+    "placeholders": {
+      "count": {},
+      "suffix": {}
+    }
+  },
+  "newlyDiscoveredLabelNew": "{count} new item{suffix} to explore",
+  "@newlyDiscoveredLabelNew": {
+    "placeholders": {
+      "count": {},
+      "suffix": {}
+    }
+  },
+  "timelineSemanticDate": "{fromDate} to {endDate}",
+  "@timelineSemanticDate": {
+    "placeholders": {
+      "fromDate": {},
+      "endDate": {}
+    }
+  },
+  "titleLabelDate": "{fromDate} to {endDate}",
+  "@titleLabelDate": {
+    "placeholders": {
+      "fromDate": {},
+      "endDate": {}
+    }
+  },
+  "ok": "Ok",
+  "cancel": "Cancel",
+  "page": "page",
+  "appPageSemanticSwipe": "{pageTitle} {current} of {total}.",
+  "@appPageSemanticSwipe": {
+    "placeholders": {
+      "pageTitle": {},
+      "current": {},
+      "total": {}
+    }
+  },
+  "semanticsPrevious": "Previous {title}",
+  "@semanticsPrevious": {
+    "placeholders": {
+      "title": {}
+    }
+  },
+  "semanticsNext": "Next {title}",
+  "@semanticsNext": {
+    "placeholders": {
+      "title": {}
+    }
+  },
+  "date": "Date",
+  "searchTerms": "search terms",
+  "close": "close",
+  "back": "back",
+  "privacyPolicy": "Privacy Policy",
+  "privacyStatement": "As explained in our {privacyUrl} we do not collect any personal information.",
+  "@privacyStatement": {
+    "placeholders": {
+      "privacyUrl": {}
+    }
+  },
+  "pageNotFoundMessage": "The page you are looking for does not exist.",
+  "pageNotFound": "Page not found.",
+  "today": "Today",
+  "yesterday": "Yesterday",
+  "testKey": "你好世界"
 }

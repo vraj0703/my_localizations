@@ -101,4 +101,19 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get yesterday => 'Yesterday';
+
+  @override
+  String get cameraPermissionTitle => 'Kindly provide the camera permission';
+
+  @override
+  String get voicePermissionTitle => 'Yesterday';
+
+  @override
+  String get cameraPermissionDescription => 'Yesterday';
+
+  @override
+  String get voicePermissionDescription => 'Yesterday';
+
+  @override
+  String get testKey => '你好世界';
 }

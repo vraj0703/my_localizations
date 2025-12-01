@@ -243,6 +243,36 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Yesterday'**
   String get yesterday;
+
+  /// No description provided for @cameraPermissionTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Kindly provide the camera permission'**
+  String get cameraPermissionTitle;
+
+  /// No description provided for @voicePermissionTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Yesterday'**
+  String get voicePermissionTitle;
+
+  /// No description provided for @cameraPermissionDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'Yesterday'**
+  String get cameraPermissionDescription;
+
+  /// No description provided for @voicePermissionDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'Yesterday'**
+  String get voicePermissionDescription;
+
+  /// A test key
+  ///
+  /// In en, this message translates to:
+  /// **'Hello World'**
+  String get testKey;
 }
 
 class _AppLocalizationsDelegate
