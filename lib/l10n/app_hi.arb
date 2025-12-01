@@ -1,83 +1,32 @@
 {
-  "appName": "My Localizations",
-  "animatedArrowSemanticSwipe": "Explore details about {title}.",
-  "@animatedArrowSemanticSwipe": {
-    "placeholders": {
-      "title": {}
-    }
-  },
-  "collectionLabelDiscovered": "{percentage}% discovered",
-  "fullscreenImageViewerSemanticFull": "full screen image, no description available",
-  "@collectionLabelDiscovered": {
-    "placeholders": {
-      "percentage": {}
-    }
-  },
-  "collectionLabelCount": "{count} of {total}",
-  "@newlyDiscoveredSemanticNew": {
-    "placeholders": {
-      "count": {},
-      "suffix": {}
-    }
-  },
-  "newlyDiscoveredLabelNew": "{count} new item{suffix} to explore",
-  "@newlyDiscoveredLabelNew": {
-    "placeholders": {
-      "count": {},
-      "suffix": {}
-    }
-  },
-  "timelineSemanticDate": "{fromDate} to {endDate}",
-  "@timelineSemanticDate": {
-    "placeholders": {
-      "fromDate": {},
-      "endDate": {}
-    }
-  },
-  "titleLabelDate": "{fromDate} to {endDate}",
-  "@titleLabelDate": {
-    "placeholders": {
-      "fromDate": {},
-      "endDate": {}
-    }
-  },
-  "ok": "Ok",
-  "cancel": "Cancel",
-  "page": "page",
-  "appPageSemanticSwipe": "{pageTitle} {current} of {total}.",
-  "@appPageSemanticSwipe": {
-    "placeholders": {
-      "pageTitle": {},
-      "current": {},
-      "total": {}
-    }
-  },
-  "semanticsPrevious": "Previous {title}",
-  "@semanticsPrevious": {
-    "placeholders": {
-      "title": {}
-    }
-  },
-  "semanticsNext": "Next {title}",
-  "@semanticsNext": {
-    "placeholders": {
-      "title": {}
-    }
-  },
-  "date": "Date",
-  "searchTerms": "search terms",
-  "close": "close",
-  "back": "back",
-  "privacyPolicy": "Privacy Policy",
-  "privacyStatement": "As explained in our {privacyUrl} we do not collect any personal information.",
-  "@privacyStatement": {
-    "placeholders": {
-      "privacyUrl": {}
-    }
-  },
-  "pageNotFoundMessage": "The page you are looking for does not exist.",
-  "pageNotFound": "Page not found.",
-  "today": "Today",
-  "yesterday": "Yesterday",
+  "@@locale": "hi",
+  "appName": "मेरे स्थानीयकरण",
+  "animatedArrowSemanticSwipe": "{title} के बारे में विवरण देखें।",
+  "collectionLabelDiscovered": "{percentage}% खोजा गया",
+  "fullscreenImageViewerSemanticFull": "पूर्ण स्क्रीन छवि, कोई विवरण उपलब्ध नहीं है",
+  "collectionLabelCount": "{count} का {total}",
+  "newlyDiscoveredLabelNew": "तलाशने के लिए {count} नया आइटम{suffix}",
+  "timelineSemanticDate": "{fromDate} से {endDate}",
+  "titleLabelDate": "{fromDate} से {endDate}",
+  "ok": "ठीक है",
+  "cancel": "रद्द करना",
+  "page": "पेज",
+  "appPageSemanticSwipe": "{pageTitle} {current} का {total}।",
+  "semanticsPrevious": "पिछला {title}",
+  "semanticsNext": "अगला {title}",
+  "date": "तारीख",
+  "searchTerms": "खोज शब्द",
+  "close": "बंद करना",
+  "back": "पीछे",
+  "privacyPolicy": "गोपनीयता नीति",
+  "privacyStatement": "जैसा कि हमारे {privacyUrl} में बताया गया है, हम कोई भी व्यक्तिगत जानकारी एकत्र नहीं करते हैं।",
+  "pageNotFoundMessage": "आप जिस पृष्ठ की तलाश कर रहे हैं वह मौजूद नहीं है।",
+  "pageNotFound": "पृष्ठ नहीं मिला।",
+  "today": "आज",
+  "yesterday": "कल",
+  "cameraPermissionTitle": "कृपया कैमरे की अनुमति प्रदान करें",
+  "voicePermissionTitle": "कृपया माइक्रोफोन की अनुमति प्रदान करें",
+  "cameraPermissionDescription": "कृपया कैमरे की अनुमति प्रदान करें",
+  "voicePermissionDescription": "कृपया माइक्रोफोन की अनुमति प्रदान करें",
   "testKey": "हैलो वर्ल्ड"
 }

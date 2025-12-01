@@ -80,9 +80,9 @@
   "today": "Today",
   "yesterday": "Yesterday",
   "cameraPermissionTitle": "Kindly provide the camera permission",
-  "voicePermissionTitle": "Yesterday",
-  "cameraPermissionDescription": "Yesterday",
-  "voicePermissionDescription": "Yesterday",
+  "voicePermissionTitle": "Kindly provide the microphone permission",
+  "cameraPermissionDescription": "Kindly provide the camera permission",
+  "voicePermissionDescription": "Kindly provide the microphone permission",
   "testKey": "Hello World",
   "@testKey": {
     "description": "A test key"

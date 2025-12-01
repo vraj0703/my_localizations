@@ -1,83 +1,32 @@
 {
-  "appName": "My Localizations",
-  "animatedArrowSemanticSwipe": "Explore details about {title}.",
-  "@animatedArrowSemanticSwipe": {
-    "placeholders": {
-      "title": {}
-    }
-  },
-  "collectionLabelDiscovered": "{percentage}% discovered",
-  "fullscreenImageViewerSemanticFull": "full screen image, no description available",
-  "@collectionLabelDiscovered": {
-    "placeholders": {
-      "percentage": {}
-    }
-  },
-  "collectionLabelCount": "{count} of {total}",
-  "@newlyDiscoveredSemanticNew": {
-    "placeholders": {
-      "count": {},
-      "suffix": {}
-    }
-  },
-  "newlyDiscoveredLabelNew": "{count} new item{suffix} to explore",
-  "@newlyDiscoveredLabelNew": {
-    "placeholders": {
-      "count": {},
-      "suffix": {}
-    }
-  },
-  "timelineSemanticDate": "{fromDate} to {endDate}",
-  "@timelineSemanticDate": {
-    "placeholders": {
-      "fromDate": {},
-      "endDate": {}
-    }
-  },
-  "titleLabelDate": "{fromDate} to {endDate}",
-  "@titleLabelDate": {
-    "placeholders": {
-      "fromDate": {},
-      "endDate": {}
-    }
-  },
-  "ok": "Ok",
-  "cancel": "Cancel",
-  "page": "page",
-  "appPageSemanticSwipe": "{pageTitle} {current} of {total}.",
-  "@appPageSemanticSwipe": {
-    "placeholders": {
-      "pageTitle": {},
-      "current": {},
-      "total": {}
-    }
-  },
-  "semanticsPrevious": "Previous {title}",
-  "@semanticsPrevious": {
-    "placeholders": {
-      "title": {}
-    }
-  },
-  "semanticsNext": "Next {title}",
-  "@semanticsNext": {
-    "placeholders": {
-      "title": {}
-    }
-  },
-  "date": "Date",
-  "searchTerms": "search terms",
-  "close": "close",
-  "back": "back",
-  "privacyPolicy": "Privacy Policy",
-  "privacyStatement": "As explained in our {privacyUrl} we do not collect any personal information.",
-  "@privacyStatement": {
-    "placeholders": {
-      "privacyUrl": {}
-    }
-  },
-  "pageNotFoundMessage": "The page you are looking for does not exist.",
-  "pageNotFound": "Page not found.",
-  "today": "Today",
-  "yesterday": "Yesterday",
+  "@@locale": "zh",
+  "appName": "我的本地化",
+  "animatedArrowSemanticSwipe": "探索有关 {title} 的详细信息。",
+  "collectionLabelDiscovered": "{percentage}% 已发现",
+  "fullscreenImageViewerSemanticFull": "全屏图像，无可用描述",
+  "collectionLabelCount": "{total} 的 {count}",
+  "newlyDiscoveredLabelNew": "{count} 新项目 {suffix} 待探索",
+  "timelineSemanticDate": "{fromDate} 至 {endDate}",
+  "titleLabelDate": "{fromDate} 至 {endDate}",
+  "ok": "好的",
+  "cancel": "取消",
+  "page": "页",
+  "appPageSemanticSwipe": "{pageTitle} {current} 或 {total}。",
+  "semanticsPrevious": "上一个 {title}",
+  "semanticsNext": "下一个 {title}",
+  "date": "日期",
+  "searchTerms": "搜索词",
+  "close": "关闭",
+  "back": "后退",
+  "privacyPolicy": "隐私政策",
+  "privacyStatement": "正如我们的 {privacyUrl} 中所解释的，我们不收集任何个人信息。",
+  "pageNotFoundMessage": "您正在寻找的页面不存在。",
+  "pageNotFound": "找不到页面。",
+  "today": "今天",
+  "yesterday": "昨天",
+  "cameraPermissionTitle": "请提供相机权限",
+  "voicePermissionTitle": "请提供麦克风权限",
+  "cameraPermissionDescription": "请提供相机权限",
+  "voicePermissionDescription": "请提供麦克风权限",
   "testKey": "你好世界"
 }
