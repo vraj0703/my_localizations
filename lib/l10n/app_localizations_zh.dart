@@ -117,4 +117,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get startOver => '重新开始';
+
+  @override
+  String get continueLabel => '继续';
 }

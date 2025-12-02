@@ -87,5 +87,6 @@
   "@testKey": {
     "description": "A test key"
   },
-  "startOver": "Start over"
+  "startOver": "Start over",
+  "continueLabel": "Continue"
 }

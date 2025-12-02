@@ -121,4 +121,7 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get startOver => 'மீண்டும் தொடங்குங்கள்';
+
+  @override
+  String get continueLabel => 'தொடரவும்';
 }

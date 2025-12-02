@@ -121,4 +121,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get startOver => 'Start over';
+
+  @override
+  String get continueLabel => 'Continue';
 }

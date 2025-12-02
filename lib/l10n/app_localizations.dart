@@ -281,6 +281,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Start over'**
   String get startOver;
+
+  /// No description provided for @continueLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Continue'**
+  String get continueLabel;
 }
 
 class _AppLocalizationsDelegate
