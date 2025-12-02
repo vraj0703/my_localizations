@@ -157,4 +157,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get calculating => 'Calculating';
+
+  @override
+  String get getDiscounts => 'Get discounts';
 }

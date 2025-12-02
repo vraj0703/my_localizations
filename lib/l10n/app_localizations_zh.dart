@@ -153,4 +153,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get calculating => '计算';
+
+  @override
+  String get getDiscounts => '获得折扣';
 }

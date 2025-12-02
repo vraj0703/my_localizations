@@ -41,5 +41,6 @@
   "medium": "中等的",
   "high": "高的",
   "pleaseEnterValue": "请输入值",
-  "calculating": "计算"
+  "calculating": "计算",
+  "getDiscounts": "获得折扣"
 }

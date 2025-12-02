@@ -41,5 +41,6 @@
   "medium": "நடுத்தர",
   "high": "உயர்",
   "pleaseEnterValue": "மதிப்பை உள்ளிடவும்",
-  "calculating": "கணக்கிடுகிறது"
+  "calculating": "கணக்கிடுகிறது",
+  "getDiscounts": "தள்ளுபடிகள் கிடைக்கும்"
 }
