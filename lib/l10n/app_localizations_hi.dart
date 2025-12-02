@@ -159,4 +159,7 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get getDiscounts => 'छूट प्राप्त करें';
+
+  @override
+  String get recalculate => 'पुनर्गणना';
 }

@@ -100,5 +100,6 @@
   "high": "High",
   "pleaseEnterValue": "Please enter value",
   "calculating": "Calculating",
-  "getDiscounts": "Get discounts"
+  "getDiscounts": "Get discounts",
+  "recalculate": "Recalculate"
 }

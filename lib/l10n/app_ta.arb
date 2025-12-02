@@ -42,5 +42,6 @@
   "high": "உயர்",
   "pleaseEnterValue": "மதிப்பை உள்ளிடவும்",
   "calculating": "கணக்கிடுகிறது",
-  "getDiscounts": "தள்ளுபடிகள் கிடைக்கும்"
+  "getDiscounts": "தள்ளுபடிகள் கிடைக்கும்",
+  "recalculate": "மீண்டும் கணக்கிடு"
 }

@@ -156,4 +156,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get getDiscounts => '获得折扣';
+
+  @override
+  String get recalculate => '重新计算';
 }
