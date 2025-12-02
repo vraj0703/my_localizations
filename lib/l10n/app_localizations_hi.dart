@@ -129,4 +129,7 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get enroll => 'नामांकन';
+
+  @override
+  String get somethingWentWrong => 'कुछ गलत हो गया';
 }

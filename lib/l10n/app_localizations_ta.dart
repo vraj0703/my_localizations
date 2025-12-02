@@ -130,4 +130,7 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get enroll => 'பதிவு செய்யுங்கள்';
+
+  @override
+  String get somethingWentWrong => 'ஏதோ தவறாகிவிட்டது';
 }

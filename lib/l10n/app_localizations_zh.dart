@@ -126,4 +126,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get enroll => '注册';
+
+  @override
+  String get somethingWentWrong => '出了点问题';
 }

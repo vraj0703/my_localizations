@@ -299,6 +299,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Enroll'**
   String get enroll;
+
+  /// No description provided for @somethingWentWrong.
+  ///
+  /// In en, this message translates to:
+  /// **'Something went wrong'**
+  String get somethingWentWrong;
 }
 
 class _AppLocalizationsDelegate
