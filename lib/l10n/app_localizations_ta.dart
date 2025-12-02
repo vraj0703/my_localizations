@@ -127,4 +127,7 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get score => 'மதிப்பெண்';
+
+  @override
+  String get enroll => 'பதிவு செய்யுங்கள்';
 }

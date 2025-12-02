@@ -123,4 +123,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get score => '分数';
+
+  @override
+  String get enroll => '注册';
 }

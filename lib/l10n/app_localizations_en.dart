@@ -127,4 +127,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get score => 'Score';
+
+  @override
+  String get enroll => 'Enroll';
 }

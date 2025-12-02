@@ -126,4 +126,7 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get score => 'अंक';
+
+  @override
+  String get enroll => 'नामांकन';
 }
