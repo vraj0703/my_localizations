@@ -154,4 +154,7 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get pleaseEnterValue => 'மதிப்பை உள்ளிடவும்';
+
+  @override
+  String get calculating => 'கணக்கிடுகிறது';
 }
