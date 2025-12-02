@@ -139,4 +139,7 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get next => 'அடுத்து';
+
+  @override
+  String get selectAnOption => 'ஒரு விருப்பத்தைத் தேர்ந்தெடுக்கவும்';
 }

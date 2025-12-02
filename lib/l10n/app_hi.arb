@@ -35,5 +35,6 @@
   "enroll": "नामांकन",
   "somethingWentWrong": "कुछ गलत हो गया",
   "tryAgain": "पुनः प्रयास करें",
-  "next": "अगला"
+  "next": "अगला",
+  "selectAnOption": "कोई विकल्प चुनें"
 }

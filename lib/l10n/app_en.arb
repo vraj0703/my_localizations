@@ -93,5 +93,6 @@
   "enroll": "Enroll",
   "somethingWentWrong": "Something went wrong",
   "tryAgain": "Try again",
-  "next": "Next"
+  "next": "Next",
+  "selectAnOption": "Select an option"
 }
