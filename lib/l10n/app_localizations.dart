@@ -341,6 +341,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'High'**
   String get high;
+
+  /// No description provided for @pleaseEnterValue.
+  ///
+  /// In en, this message translates to:
+  /// **'Please enter value'**
+  String get pleaseEnterValue;
 }
 
 class _AppLocalizationsDelegate

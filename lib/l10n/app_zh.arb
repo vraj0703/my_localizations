@@ -39,5 +39,6 @@
   "selectAnOption": "选择一个选项",
   "low": "低的",
   "medium": "中等的",
-  "high": "高的"
+  "high": "高的",
+  "pleaseEnterValue": "请输入值"
 }

@@ -150,4 +150,7 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get high => 'उच्च';
+
+  @override
+  String get pleaseEnterValue => 'कृपया मान दर्ज करें';
 }

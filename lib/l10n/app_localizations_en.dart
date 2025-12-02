@@ -151,4 +151,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get high => 'High';
+
+  @override
+  String get pleaseEnterValue => 'Please enter value';
 }
