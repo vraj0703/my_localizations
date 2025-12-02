@@ -124,4 +124,7 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get continueLabel => 'தொடரவும்';
+
+  @override
+  String get score => 'மதிப்பெண்';
 }

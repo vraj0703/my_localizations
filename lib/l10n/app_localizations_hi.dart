@@ -123,4 +123,7 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get continueLabel => 'जारी रखना';
+
+  @override
+  String get score => 'अंक';
 }

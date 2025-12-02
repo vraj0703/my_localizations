@@ -30,5 +30,6 @@
   "voicePermissionDescription": "தயவுசெய்து மைக்ரோஃபோன் அனுமதியை வழங்கவும்",
   "testKey": "வணக்கம் உலகம்",
   "startOver": "மீண்டும் தொடங்குங்கள்",
-  "continueLabel": "தொடரவும்"
+  "continueLabel": "தொடரவும்",
+  "score": "மதிப்பெண்"
 }

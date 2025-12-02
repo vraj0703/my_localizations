@@ -88,5 +88,6 @@
     "description": "A test key"
   },
   "startOver": "Start over",
-  "continueLabel": "Continue"
+  "continueLabel": "Continue",
+  "score": "Score"
 }

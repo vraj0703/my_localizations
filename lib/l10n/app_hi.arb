@@ -30,5 +30,6 @@
   "voicePermissionDescription": "कृपया माइक्रोफोन की अनुमति प्रदान करें",
   "testKey": "हैलो वर्ल्ड",
   "startOver": "प्रारंभ करें",
-  "continueLabel": "जारी रखना"
+  "continueLabel": "जारी रखना",
+  "score": "अंक"
 }

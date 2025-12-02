@@ -30,5 +30,6 @@
   "voicePermissionDescription": "请提供麦克风权限",
   "testKey": "你好世界",
   "startOver": "重新开始",
-  "continueLabel": "继续"
+  "continueLabel": "继续",
+  "score": "分数"
 }
