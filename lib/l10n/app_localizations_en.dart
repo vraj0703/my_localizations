@@ -130,4 +130,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get enroll => 'Enroll';
+
+  @override
+  String get somethingWentWrong => 'Something went wrong';
 }

@@ -90,5 +90,6 @@
   "startOver": "Start over",
   "continueLabel": "Continue",
   "score": "Score",
-  "enroll": "Enroll"
+  "enroll": "Enroll",
+  "somethingWentWrong": "Something went wrong"
 }
