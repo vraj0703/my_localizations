@@ -36,5 +36,8 @@
   "somethingWentWrong": "出了点问题",
   "tryAgain": "再试一次",
   "next": "下一个",
-  "selectAnOption": "选择一个选项"
+  "selectAnOption": "选择一个选项",
+  "low": "低的",
+  "medium": "中等的",
+  "high": "高的"
 }

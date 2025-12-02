@@ -142,4 +142,13 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get selectAnOption => 'ஒரு விருப்பத்தைத் தேர்ந்தெடுக்கவும்';
+
+  @override
+  String get low => 'குறைந்த';
+
+  @override
+  String get medium => 'நடுத்தர';
+
+  @override
+  String get high => 'உயர்';
 }

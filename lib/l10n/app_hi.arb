@@ -36,5 +36,8 @@
   "somethingWentWrong": "कुछ गलत हो गया",
   "tryAgain": "पुनः प्रयास करें",
   "next": "अगला",
-  "selectAnOption": "कोई विकल्प चुनें"
+  "selectAnOption": "कोई विकल्प चुनें",
+  "low": "कम",
+  "medium": "मध्यम",
+  "high": "उच्च"
 }

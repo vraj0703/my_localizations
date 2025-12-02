@@ -141,4 +141,13 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get selectAnOption => 'कोई विकल्प चुनें';
+
+  @override
+  String get low => 'कम';
+
+  @override
+  String get medium => 'मध्यम';
+
+  @override
+  String get high => 'उच्च';
 }

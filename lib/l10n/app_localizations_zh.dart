@@ -138,4 +138,13 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get selectAnOption => '选择一个选项';
+
+  @override
+  String get low => '低的';
+
+  @override
+  String get medium => '中等的';
+
+  @override
+  String get high => '高的';
 }

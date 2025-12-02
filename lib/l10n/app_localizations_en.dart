@@ -142,4 +142,13 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get selectAnOption => 'Select an option';
+
+  @override
+  String get low => 'Low';
+
+  @override
+  String get medium => 'Medium';
+
+  @override
+  String get high => 'High';
 }
