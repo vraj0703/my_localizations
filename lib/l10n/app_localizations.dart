@@ -323,6 +323,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Select an option'**
   String get selectAnOption;
+
+  /// No description provided for @low.
+  ///
+  /// In en, this message translates to:
+  /// **'Low'**
+  String get low;
 }
 
 class _AppLocalizationsDelegate

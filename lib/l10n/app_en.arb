@@ -94,5 +94,6 @@
   "somethingWentWrong": "Something went wrong",
   "tryAgain": "Try again",
   "next": "Next",
-  "selectAnOption": "Select an option"
+  "selectAnOption": "Select an option",
+  "low": "Low"
 }

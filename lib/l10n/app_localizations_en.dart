@@ -142,4 +142,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get selectAnOption => 'Select an option';
+
+  @override
+  String get low => 'Low';
 }
