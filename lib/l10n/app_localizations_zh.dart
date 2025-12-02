@@ -120,4 +120,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get continueLabel => '继续';
+
+  @override
+  String get score => '分数';
 }
