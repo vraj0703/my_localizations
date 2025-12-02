@@ -145,4 +145,7 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get low => 'குறைந்த';
+
+  @override
+  String get medium => 'நடுத்தர';
 }

@@ -144,4 +144,7 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get low => 'कम';
+
+  @override
+  String get medium => 'मध्यम';
 }

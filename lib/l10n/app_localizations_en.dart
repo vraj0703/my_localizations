@@ -145,4 +145,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get low => 'Low';
+
+  @override
+  String get medium => 'Medium';
 }

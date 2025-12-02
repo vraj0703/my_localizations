@@ -329,6 +329,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Low'**
   String get low;
+
+  /// No description provided for @medium.
+  ///
+  /// In en, this message translates to:
+  /// **'Medium'**
+  String get medium;
 }
 
 class _AppLocalizationsDelegate

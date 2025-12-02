@@ -95,5 +95,6 @@
   "tryAgain": "Try again",
   "next": "Next",
   "selectAnOption": "Select an option",
-  "low": "Low"
+  "low": "Low",
+  "medium": "Medium"
 }
