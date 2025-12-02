@@ -151,4 +151,7 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get high => 'உயர்';
+
+  @override
+  String get pleaseEnterValue => 'மதிப்பை உள்ளிடவும்';
 }

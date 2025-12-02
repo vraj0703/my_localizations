@@ -97,5 +97,6 @@
   "selectAnOption": "Select an option",
   "low": "Low",
   "medium": "Medium",
-  "high": "High"
+  "high": "High",
+  "pleaseEnterValue": "Please enter value"
 }

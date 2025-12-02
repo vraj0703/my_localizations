@@ -147,4 +147,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get high => '高的';
+
+  @override
+  String get pleaseEnterValue => '请输入值';
 }
