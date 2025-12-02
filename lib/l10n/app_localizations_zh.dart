@@ -129,4 +129,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get somethingWentWrong => '出了点问题';
+
+  @override
+  String get tryAgain => '再试一次';
 }

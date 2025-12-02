@@ -33,5 +33,6 @@
   "continueLabel": "继续",
   "score": "分数",
   "enroll": "注册",
-  "somethingWentWrong": "出了点问题"
+  "somethingWentWrong": "出了点问题",
+  "tryAgain": "再试一次"
 }
