@@ -347,6 +347,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Please enter value'**
   String get pleaseEnterValue;
+
+  /// No description provided for @calculating.
+  ///
+  /// In en, this message translates to:
+  /// **'Calculating'**
+  String get calculating;
 }
 
 class _AppLocalizationsDelegate

@@ -40,5 +40,6 @@
   "low": "குறைந்த",
   "medium": "நடுத்தர",
   "high": "உயர்",
-  "pleaseEnterValue": "மதிப்பை உள்ளிடவும்"
+  "pleaseEnterValue": "மதிப்பை உள்ளிடவும்",
+  "calculating": "கணக்கிடுகிறது"
 }

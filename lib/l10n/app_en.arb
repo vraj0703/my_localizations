@@ -98,5 +98,6 @@
   "low": "Low",
   "medium": "Medium",
   "high": "High",
-  "pleaseEnterValue": "Please enter value"
+  "pleaseEnterValue": "Please enter value",
+  "calculating": "Calculating"
 }

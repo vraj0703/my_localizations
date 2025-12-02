@@ -153,4 +153,7 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get pleaseEnterValue => 'कृपया मान दर्ज करें';
+
+  @override
+  String get calculating => 'गिना जा रहा है';
 }

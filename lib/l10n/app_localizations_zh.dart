@@ -150,4 +150,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get pleaseEnterValue => '请输入值';
+
+  @override
+  String get calculating => '计算';
 }
