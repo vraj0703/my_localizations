@@ -144,4 +144,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get medium => '中等的';
+
+  @override
+  String get high => '高的';
 }

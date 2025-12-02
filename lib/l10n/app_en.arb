@@ -96,5 +96,6 @@
   "next": "Next",
   "selectAnOption": "Select an option",
   "low": "Low",
-  "medium": "Medium"
+  "medium": "Medium",
+  "high": "High"
 }

@@ -148,4 +148,7 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get medium => 'நடுத்தர';
+
+  @override
+  String get high => 'உயர்';
 }
