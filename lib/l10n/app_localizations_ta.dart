@@ -136,4 +136,7 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get tryAgain => 'மீண்டும் முயற்சிக்கவும்';
+
+  @override
+  String get next => 'அடுத்து';
 }
