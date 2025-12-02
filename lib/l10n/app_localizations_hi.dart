@@ -120,4 +120,7 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get startOver => 'प्रारंभ करें';
+
+  @override
+  String get continueLabel => 'जारी रखना';
 }
