@@ -353,6 +353,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Calculating'**
   String get calculating;
+
+  /// No description provided for @getDiscounts.
+  ///
+  /// In en, this message translates to:
+  /// **'Get discounts'**
+  String get getDiscounts;
 }
 
 class _AppLocalizationsDelegate

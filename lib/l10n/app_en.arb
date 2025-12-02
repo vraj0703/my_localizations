@@ -99,5 +99,6 @@
   "medium": "Medium",
   "high": "High",
   "pleaseEnterValue": "Please enter value",
-  "calculating": "Calculating"
+  "calculating": "Calculating",
+  "getDiscounts": "Get discounts"
 }
