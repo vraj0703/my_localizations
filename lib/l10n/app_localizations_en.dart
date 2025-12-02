@@ -136,4 +136,10 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get tryAgain => 'Try again';
+
+  @override
+  String get next => 'Next';
+
+  @override
+  String get selectAnOption => 'Select an option';
 }

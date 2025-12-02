@@ -135,4 +135,10 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get tryAgain => 'पुनः प्रयास करें';
+
+  @override
+  String get next => 'अगला';
+
+  @override
+  String get selectAnOption => 'कोई विकल्प चुनें';
 }

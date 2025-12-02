@@ -34,5 +34,7 @@
   "score": "分数",
   "enroll": "注册",
   "somethingWentWrong": "出了点问题",
-  "tryAgain": "再试一次"
+  "tryAgain": "再试一次",
+  "next": "下一个",
+  "selectAnOption": "选择一个选项"
 }

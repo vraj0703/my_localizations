@@ -136,4 +136,10 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get tryAgain => 'மீண்டும் முயற்சிக்கவும்';
+
+  @override
+  String get next => 'அடுத்து';
+
+  @override
+  String get selectAnOption => 'ஒரு விருப்பத்தைத் தேர்ந்தெடுக்கவும்';
 }

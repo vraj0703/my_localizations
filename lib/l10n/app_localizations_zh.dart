@@ -132,4 +132,10 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get tryAgain => '再试一次';
+
+  @override
+  String get next => '下一个';
+
+  @override
+  String get selectAnOption => '选择一个选项';
 }
