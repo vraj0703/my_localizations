@@ -160,4 +160,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get getDiscounts => 'Get discounts';
+
+  @override
+  String get recalculate => 'Recalculate';
 }

@@ -160,4 +160,7 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get getDiscounts => 'தள்ளுபடிகள் கிடைக்கும்';
+
+  @override
+  String get recalculate => 'மீண்டும் கணக்கிடு';
 }

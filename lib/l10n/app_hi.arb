@@ -42,5 +42,6 @@
   "high": "उच्च",
   "pleaseEnterValue": "कृपया मान दर्ज करें",
   "calculating": "गिना जा रहा है",
-  "getDiscounts": "छूट प्राप्त करें"
+  "getDiscounts": "छूट प्राप्त करें",
+  "recalculate": "पुनर्गणना"
 }
