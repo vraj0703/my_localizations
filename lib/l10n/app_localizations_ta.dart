@@ -133,4 +133,7 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get somethingWentWrong => 'ஏதோ தவறாகிவிட்டது';
+
+  @override
+  String get tryAgain => 'மீண்டும் முயற்சிக்கவும்';
 }

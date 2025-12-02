@@ -91,5 +91,6 @@
   "continueLabel": "Continue",
   "score": "Score",
   "enroll": "Enroll",
-  "somethingWentWrong": "Something went wrong"
+  "somethingWentWrong": "Something went wrong",
+  "tryAgain": "Try again"
 }

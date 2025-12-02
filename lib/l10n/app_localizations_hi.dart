@@ -132,4 +132,7 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get somethingWentWrong => 'कुछ गलत हो गया';
+
+  @override
+  String get tryAgain => 'पुनः प्रयास करें';
 }
