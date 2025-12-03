@@ -431,6 +431,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Server error'**
   String get serverError;
+
+  /// No description provided for @tapToStop.
+  ///
+  /// In en, this message translates to:
+  /// **'Tap to stop'**
+  String get tapToStop;
 }
 
 class _AppLocalizationsDelegate

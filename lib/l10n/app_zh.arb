@@ -54,5 +54,6 @@
   "loading": "加载中",
   "tapToStart": "点击开始",
   "tapToSend": "点击发送",
-  "serverError": "服务器错误"
+  "serverError": "服务器错误",
+  "tapToStop": "点击停止"
 }

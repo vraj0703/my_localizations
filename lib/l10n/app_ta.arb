@@ -54,5 +54,6 @@
   "loading": "ஏற்றுகிறது",
   "tapToStart": "தொடங்க, தட்டவும்",
   "tapToSend": "அனுப்ப தட்டவும்",
-  "serverError": "சர்வர் பிழை"
+  "serverError": "சர்வர் பிழை",
+  "tapToStop": "நிறுத்த தட்டவும்"
 }

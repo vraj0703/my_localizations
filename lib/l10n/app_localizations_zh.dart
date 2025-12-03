@@ -192,4 +192,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get serverError => '服务器错误';
+
+  @override
+  String get tapToStop => '点击停止';
 }
