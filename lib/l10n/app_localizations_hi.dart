@@ -181,4 +181,19 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get photo => 'तस्वीर';
+
+  @override
+  String get describe => 'वर्णन करना';
+
+  @override
+  String get loading => 'लोड हो रहा है';
+
+  @override
+  String get tapToStart => 'शरू करने के लिए टैप करें';
+
+  @override
+  String get tapToSend => 'भेजने के लिए टैप करें';
+
+  @override
+  String get serverError => 'सर्वर त्रुटि';
 }

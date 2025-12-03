@@ -182,4 +182,19 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get photo => 'புகைப்படம்';
+
+  @override
+  String get describe => 'விவரிக்கவும்';
+
+  @override
+  String get loading => 'ஏற்றுகிறது';
+
+  @override
+  String get tapToStart => 'தொடங்க, தட்டவும்';
+
+  @override
+  String get tapToSend => 'அனுப்ப தட்டவும்';
+
+  @override
+  String get serverError => 'சர்வர் பிழை';
 }

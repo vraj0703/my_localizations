@@ -401,6 +401,36 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Photo'**
   String get photo;
+
+  /// No description provided for @describe.
+  ///
+  /// In en, this message translates to:
+  /// **'Describe'**
+  String get describe;
+
+  /// No description provided for @loading.
+  ///
+  /// In en, this message translates to:
+  /// **'Loading'**
+  String get loading;
+
+  /// No description provided for @tapToStart.
+  ///
+  /// In en, this message translates to:
+  /// **'Tap to start'**
+  String get tapToStart;
+
+  /// No description provided for @tapToSend.
+  ///
+  /// In en, this message translates to:
+  /// **'Tap to send'**
+  String get tapToSend;
+
+  /// No description provided for @serverError.
+  ///
+  /// In en, this message translates to:
+  /// **'Server error'**
+  String get serverError;
 }
 
 class _AppLocalizationsDelegate

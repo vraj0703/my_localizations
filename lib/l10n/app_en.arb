@@ -107,5 +107,10 @@
   "uploading": "Uploading",
   "camera": "Camera",
   "scan": "Scan",
-  "photo": "Photo"
+  "photo": "Photo",
+  "describe": "Describe",
+  "loading": "Loading",
+  "tapToStart": "Tap to start",
+  "tapToSend": "Tap to send",
+  "serverError": "Server error"
 }

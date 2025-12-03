@@ -49,5 +49,10 @@
   "uploading": "上传中",
   "camera": "相机",
   "scan": "扫描",
-  "photo": "照片"
+  "photo": "照片",
+  "describe": "描述",
+  "loading": "加载中",
+  "tapToStart": "点击开始",
+  "tapToSend": "点击发送",
+  "serverError": "服务器错误"
 }
