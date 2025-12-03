@@ -43,5 +43,8 @@
   "pleaseEnterValue": "请输入值",
   "calculating": "计算",
   "getDiscounts": "获得折扣",
-  "recalculate": "重新计算"
+  "recalculate": "重新计算",
+  "makeSureItFitsFrame": "确保它适合框架",
+  "analyzing": "分析中",
+  "uploading": "上传中"
 }

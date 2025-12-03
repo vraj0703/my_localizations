@@ -162,4 +162,14 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get recalculate => 'पुनर्गणना';
+
+  @override
+  String get makeSureItFitsFrame =>
+      'सुनिश्चित करें कि यह फ्रेम में फिट बैठता है';
+
+  @override
+  String get analyzing => 'का विश्लेषण';
+
+  @override
+  String get uploading => 'अपलोड हो रहा है';
 }

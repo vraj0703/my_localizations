@@ -101,5 +101,8 @@
   "pleaseEnterValue": "Please enter value",
   "calculating": "Calculating",
   "getDiscounts": "Get discounts",
-  "recalculate": "Recalculate"
+  "recalculate": "Recalculate",
+  "makeSureItFitsFrame": "Make sure it fits the frame",
+  "analyzing": "Analyzing",
+  "uploading": "Uploading"
 }

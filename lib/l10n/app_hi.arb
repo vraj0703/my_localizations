@@ -43,5 +43,8 @@
   "pleaseEnterValue": "कृपया मान दर्ज करें",
   "calculating": "गिना जा रहा है",
   "getDiscounts": "छूट प्राप्त करें",
-  "recalculate": "पुनर्गणना"
+  "recalculate": "पुनर्गणना",
+  "makeSureItFitsFrame": "सुनिश्चित करें कि यह फ्रेम में फिट बैठता है",
+  "analyzing": "का विश्लेषण",
+  "uploading": "अपलोड हो रहा है"
 }
