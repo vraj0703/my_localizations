@@ -177,4 +177,19 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get photo => '照片';
+
+  @override
+  String get describe => '描述';
+
+  @override
+  String get loading => '加载中';
+
+  @override
+  String get tapToStart => '点击开始';
+
+  @override
+  String get tapToSend => '点击发送';
+
+  @override
+  String get serverError => '服务器错误';
 }

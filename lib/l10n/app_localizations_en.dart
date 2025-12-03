@@ -181,4 +181,19 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get photo => 'Photo';
+
+  @override
+  String get describe => 'Describe';
+
+  @override
+  String get loading => 'Loading';
+
+  @override
+  String get tapToStart => 'Tap to start';
+
+  @override
+  String get tapToSend => 'Tap to send';
+
+  @override
+  String get serverError => 'Server error';
 }
