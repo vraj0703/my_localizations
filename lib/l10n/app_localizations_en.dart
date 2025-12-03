@@ -163,4 +163,13 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get recalculate => 'Recalculate';
+
+  @override
+  String get makeSureItFitsFrame => 'Make sure it fits the frame';
+
+  @override
+  String get analyzing => 'Analyzing';
+
+  @override
+  String get uploading => 'Uploading';
 }

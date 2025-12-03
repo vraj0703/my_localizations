@@ -159,4 +159,13 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get recalculate => '重新计算';
+
+  @override
+  String get makeSureItFitsFrame => '确保它适合框架';
+
+  @override
+  String get analyzing => '分析中';
+
+  @override
+  String get uploading => '上传中';
 }

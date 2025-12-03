@@ -365,6 +365,24 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Recalculate'**
   String get recalculate;
+
+  /// No description provided for @makeSureItFitsFrame.
+  ///
+  /// In en, this message translates to:
+  /// **'Make sure it fits the frame'**
+  String get makeSureItFitsFrame;
+
+  /// No description provided for @analyzing.
+  ///
+  /// In en, this message translates to:
+  /// **'Analyzing'**
+  String get analyzing;
+
+  /// No description provided for @uploading.
+  ///
+  /// In en, this message translates to:
+  /// **'Uploading'**
+  String get uploading;
 }
 
 class _AppLocalizationsDelegate

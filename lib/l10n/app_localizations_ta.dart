@@ -163,4 +163,14 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get recalculate => 'மீண்டும் கணக்கிடு';
+
+  @override
+  String get makeSureItFitsFrame =>
+      'இது சட்டத்திற்கு பொருந்துகிறது என்பதை உறுதிப்படுத்தவும்';
+
+  @override
+  String get analyzing => 'பகுப்பாய்வு செய்கிறது';
+
+  @override
+  String get uploading => 'பதிவேற்றுகிறது';
 }
