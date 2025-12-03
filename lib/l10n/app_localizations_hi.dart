@@ -172,4 +172,13 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get uploading => 'अपलोड हो रहा है';
+
+  @override
+  String get camera => 'कैमरा';
+
+  @override
+  String get scan => 'स्कैन';
+
+  @override
+  String get photo => 'तस्वीर';
 }

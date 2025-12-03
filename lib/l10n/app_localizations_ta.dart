@@ -173,4 +173,13 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get uploading => 'பதிவேற்றுகிறது';
+
+  @override
+  String get camera => 'கேமரா';
+
+  @override
+  String get scan => 'ஸ்கேன் செய்யவும்';
+
+  @override
+  String get photo => 'புகைப்படம்';
 }

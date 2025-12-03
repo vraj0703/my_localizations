@@ -46,5 +46,8 @@
   "recalculate": "重新计算",
   "makeSureItFitsFrame": "确保它适合框架",
   "analyzing": "分析中",
-  "uploading": "上传中"
+  "uploading": "上传中",
+  "camera": "相机",
+  "scan": "扫描",
+  "photo": "照片"
 }
