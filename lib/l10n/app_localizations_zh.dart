@@ -168,4 +168,13 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get uploading => '上传中';
+
+  @override
+  String get camera => '相机';
+
+  @override
+  String get scan => '扫描';
+
+  @override
+  String get photo => '照片';
 }

@@ -104,5 +104,8 @@
   "recalculate": "Recalculate",
   "makeSureItFitsFrame": "Make sure it fits the frame",
   "analyzing": "Analyzing",
-  "uploading": "Uploading"
+  "uploading": "Uploading",
+  "camera": "Camera",
+  "scan": "Scan",
+  "photo": "Photo"
 }

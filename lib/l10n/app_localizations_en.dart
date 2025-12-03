@@ -172,4 +172,13 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get uploading => 'Uploading';
+
+  @override
+  String get camera => 'Camera';
+
+  @override
+  String get scan => 'Scan';
+
+  @override
+  String get photo => 'Photo';
 }
