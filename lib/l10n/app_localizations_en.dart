@@ -196,4 +196,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get serverError => 'Server error';
+
+  @override
+  String get tapToStop => 'Tap to stop';
 }

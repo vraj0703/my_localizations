@@ -197,4 +197,7 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String get serverError => 'சர்வர் பிழை';
+
+  @override
+  String get tapToStop => 'நிறுத்த தட்டவும்';
 }

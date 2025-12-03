@@ -112,5 +112,6 @@
   "loading": "Loading",
   "tapToStart": "Tap to start",
   "tapToSend": "Tap to send",
-  "serverError": "Server error"
+  "serverError": "Server error",
+  "tapToStop": "Tap to stop"
 }

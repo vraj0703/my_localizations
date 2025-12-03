@@ -196,4 +196,7 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get serverError => 'सर्वर त्रुटि';
+
+  @override
+  String get tapToStop => 'रोकने के लिए टैप करें';
 }
